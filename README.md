@@ -2,11 +2,8 @@
 
 - I love Pokemon.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JINJITING&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JINJITING&repo=leetcode)](https://github.com/JINJITING/leetcode)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINJITING)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JINJITING&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINJITING)
 
 
 
