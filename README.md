@@ -3,7 +3,7 @@
 - I love Pokemon.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JINJITING&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINJITING)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINJITING&layout=compact)
 
 
 
